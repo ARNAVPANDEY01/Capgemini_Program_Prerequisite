@@ -7,7 +7,7 @@ WEEK 1
 -> git pull :- fetch and integrate  with another repository.
 -> git push :- Push or Apply changes to the working repository.
 -> git commit :- Record the changes to the repository.
--> git fetch :- To retrieve commits, files, branches, and tags from a remote repository without integrating them into your local repository.
+-> git fetch :- To retrieve commits, file, branches, and tags from a remote repository without integrating them into your local repository.
 -> git clone :- Clone the repository.
 -> git merge :- Join two or more development histories together.
 -> git checkout :- Use to switch the branches 'git checkout branchname'.
